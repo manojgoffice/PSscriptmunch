@@ -1,6 +1,4 @@
 # PSscriptmunch
-basic ps scripts for the server admin
-# PSscriptmunch
 
 A collection of professional PowerShell automation scripts designed for system administrators to manage and audit server infrastructure efficiently.
 
